@@ -1,0 +1,78 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "name": "Riley (Norman E.) Collection",
+  "publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/992030"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1133421"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/813301"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205542"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204473"
+    }
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "identifier": [
+     "ark:/87293/d3xp6vb8p",
+     "D-550"
+  ],
+  "license": [
+    {
+      "@id": "https://rightsstatements.org/page/NoC-US/1.0/"
+    }
+  ],
+   "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "sdLicense": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "description": "Norman Riley taught himself the principles and techniques of photography while working for the State of California. He first focused on portraiture and shooting scenes in and around Davis and Sacramento, California. In 1984, he began to concentrate on architectural studies and landscapes. From 2006 to 2011, Riley turned almost exclusively to still life work in which he created and the photographed unique sculptures. His first book, titled \"Prophet Theory\" was published in 2013. \n\n Subjects include California, especially Davis and Sacramento; the western United States; European cities; still lifes; and portraits of family and friends. The collection is primarily photographic negatives in small, medium, and large formats but also includes silver gelatin prints from select negatives.\n\n This digital collection contains addtional photographs and will be updated peridocially. A full inventory of the collection is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8z039gb/)."
+}

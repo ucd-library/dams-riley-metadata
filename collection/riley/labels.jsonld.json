@@ -1,0 +1,96 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1133421",
+    "http://schema.org/name": "Still-life photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205207",
+    "http://schema.org/name": "Czech Republic--Prague"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205660",
+    "http://schema.org/name": "Nevada"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204034",
+    "http://schema.org/name": "Netherlands"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/992030",
+    "http://schema.org/name": "Landscape photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/813301",
+    "http://schema.org/name": "Architectural photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1210272",
+    "http://schema.org/name": "Germany"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204703",
+    "http://schema.org/name": "Washington (State)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1072259",
+    "http://schema.org/name": "Portrait photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205542",
+    "http://schema.org/name": "California--Sacramento"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205132",
+    "http://schema.org/name": "Hungary"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423689",
+    "http://schema.org/name": "Photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204579",
+    "http://schema.org/name": "Oregon"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204820",
+    "http://schema.org/name": "Arizona"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1208724",
+    "http://schema.org/name": "Hawaii"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1210278",
+    "http://schema.org/name": "Belgium"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204473",
+    "http://schema.org/name": "Italy--Venice"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204901",
+    "http://schema.org/name": "Austria"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204289",
+    "http://schema.org/name": "France"
+  }
+]

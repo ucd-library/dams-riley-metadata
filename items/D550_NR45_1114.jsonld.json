@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "http://schema.org/Photograph",
+    "http://schema.org/ImageObject",
+    "http://schema.org/CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/D550_NR45_1114.tif"
+    }
+  ],
+  "creator": "Riley, Norman E.",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1072259"
+    }
+  ],
+  "datePublished": "2006-07",
+  "identifier": [
+    "D-550",
+    "NR45_1114",
+    "ark:/87293/d3nc5sj35"
+  ],
+  "license": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "material": "1 negative,  black and white,  4 x 5 inches",
+  "name": "Medric Riley and his friend Jordan Tapia at front door of 2726 Rockwell Drive, Davis, CA",
+  "publisher": "UC Davis Library, Archives and Special Collections",
+  "temporal": "circa July 2006"
+}

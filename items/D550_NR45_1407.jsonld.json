@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "http://schema.org/ImageObject",
+    "http://schema.org/CreativeWork",
+    "http://schema.org/Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/D550_NR45_1407.tif"
+    }
+  ],
+  "creator": "Riley, Norman E.",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1133421"
+    }
+  ],
+  "datePublished": "2009",
+  "identifier": [
+    "ark:/87293/d3ns0m36z",
+    "NR45_1407",
+    "D-550"
+  ],
+  "license": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "material": "1 negative,  black and white,  4 x 5 inches",
+  "name": "Burdock root on tire jack",
+  "publisher": "UC Davis Library, Archives and Special Collections",
+  "temporal": "2009"
+}
