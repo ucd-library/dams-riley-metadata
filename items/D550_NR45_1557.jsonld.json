@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1557.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2011-01-01"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d38s4jv3n",
     "NR45_1557"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Dragon Fruit with key",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "January 1, 2011"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Dragon Fruit with key",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "January 1, 2011"
 }

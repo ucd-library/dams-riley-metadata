@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1845.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2007-12",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3z02zf5q",
     "NR45_1845",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Onion (jeweled)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "December 2007"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Onion (jeweled)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "December 2007"
 }

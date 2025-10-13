@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1153.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1072259"
     }
   ],
   "datePublished": "1988",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1153",
     "ark:/87293/d3m61bv76"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Group Photo: Alternative Technology and Policy Development Section, Toxic Substances Control Division, California Department of Health Services",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Group Photo: Alternative Technology and Policy Development Section, Toxic Substances Control Division, California Department of Health Services",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1988"
 }

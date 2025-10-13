@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0734.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1991-10-19"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3833n40r",
     "D-550",
     "NR45_0734"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Passau, Germany. View of South Passau and St. Severin Church across Inn River",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 19, 1991"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Passau, Germany. View of South Passau and St. Severin Church across Inn River",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 19, 1991"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0027.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2007-10-28"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR810_0027",
     "D-550",
     "ark:/87293/d3416t53x"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Bishop. Morning Light, Sierra range. Rock formations.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 28, 2007"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Bishop. Morning Light, Sierra range. Rock formations.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 28, 2007"
 }

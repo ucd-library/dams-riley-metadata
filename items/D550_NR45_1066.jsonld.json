@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1066.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204579"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2006-05",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3zw18z0b",
     "NR45_1066",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Unidentified Location, OR. Alder trees",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 2006"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Unidentified Location, OR. Alder trees",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 2006"
 }

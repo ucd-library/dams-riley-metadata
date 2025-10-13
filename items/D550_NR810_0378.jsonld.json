@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0378.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2006-05-08"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d3bn9x85p",
     "NR810_0378"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Cape Look Out. Ideal Trailer.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 8, 2006"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Cape Look Out. Ideal Trailer.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 8, 2006"
 }

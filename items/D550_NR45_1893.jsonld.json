@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1893.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2009",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1893",
     "ark:/87293/d3gm81v0n",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Peppers with toy train track",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Peppers with toy train track",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2009"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0164.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2005",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR810_0164",
     "ark:/87293/d3n87355n"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Esparto. Cemetery.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 2005"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Esparto. Cemetery.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 2005"
 }

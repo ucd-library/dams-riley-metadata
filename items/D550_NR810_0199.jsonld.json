@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0199.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2012-02-21"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR810_0199",
     "ark:/87293/d30c4sr3k"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Madison.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "February 21, 2012"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Madison.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "February 21, 2012"
 }

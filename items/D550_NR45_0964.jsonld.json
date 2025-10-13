@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0964.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204579"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2006-05-08"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d38w3873x",
     "NR45_0964"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Astoria, OR. White clapboard house",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 8, 2006"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Astoria, OR. White clapboard house",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 8, 2006"
 }

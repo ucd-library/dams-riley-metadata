@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0380.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1992-12-17"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0380",
     "ark:/87293/d3cn6z45g",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Darmstadt, Germany. View of trains on platforms inside the Hauptbahnhof (main train station)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "December 17, 1992"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Darmstadt, Germany. View of trains on platforms inside the Hauptbahnhof (main train station)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "December 17, 1992"
 }

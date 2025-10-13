@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0177.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2008-12-30"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3zk55s65",
     "NR810_0177",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Klamath. Alder forest.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "December 30, 2008"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Klamath. Alder forest.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "December 30, 2008"
 }

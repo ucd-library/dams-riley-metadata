@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1042.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204579"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2012-08-27"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d32v2cg27",
     "NR45_1042",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Warrenton, OR. Peter Iredale shipwreck",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "August 27, 2012"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Warrenton, OR. Peter Iredale shipwreck",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "August 27, 2012"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0662.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1991-10-12"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3js9hd3s",
     "NR45_0662",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Marburg, Germany. View of town and Lahn River",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 12, 1991"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Marburg, Germany. View of town and Lahn River",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 12, 1991"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0789.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1991-10-23"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_0789",
     "ark:/87293/d3513v17n"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Saarburg, Germany. View of waterfall in downtown Saarburg",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 23, 1991"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Saarburg, Germany. View of waterfall in downtown Saarburg",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 23, 1991"
 }

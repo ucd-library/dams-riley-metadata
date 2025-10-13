@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1926.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2009-01-11"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d3707wv07",
     "NR45_1926"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Pomegranate with ram's horn",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "January 11, 2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Pomegranate with ram's horn",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "January 11, 2009"
 }

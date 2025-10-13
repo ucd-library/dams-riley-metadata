@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1730.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2009",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1730",
     "D-550",
     "ark:/87293/d3xk84w4z"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Lamp with leaves and seeds",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Lamp with leaves and seeds",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 2009"
 }

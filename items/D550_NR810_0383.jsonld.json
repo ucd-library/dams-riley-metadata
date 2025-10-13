@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0383.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2013-02-13"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR810_0383",
     "ark:/87293/d3pz51s79",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Coos Bay. Old pier pilings, N. Front Street.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "February 13, 2013"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Coos Bay. Old pier pilings, N. Front Street.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "February 13, 2013"
 }

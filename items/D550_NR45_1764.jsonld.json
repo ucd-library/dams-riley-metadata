@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1764.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2008",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3j67928m",
     "NR45_1764",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Mackerel",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Mackerel",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2008"
 }

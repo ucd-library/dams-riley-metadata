@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0866.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204901"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-19"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0866",
     "ark:/87293/d3z02zf1s",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Salzburg, Austria. View of railroad bridge over Salzach River",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 19, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Salzburg, Austria. View of railroad bridge over Salzach River",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 19, 1988"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0307.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2012-05-09"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3t43j75k",
     "D-550",
     "NR45_0307"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Yosemite National Park, CA. El Capitan",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 9, 2012"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Yosemite National Park, CA. El Capitan",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 9, 2012"
 }

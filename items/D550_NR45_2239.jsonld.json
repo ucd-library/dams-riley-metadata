@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2239.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204703"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2012-09",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3ng4gz01",
     "D-550",
     "NR45_2239"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Artist Point, WA. View of bare tree trunk",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "September 2012"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Artist Point, WA. View of bare tree trunk",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "September 2012"
 }

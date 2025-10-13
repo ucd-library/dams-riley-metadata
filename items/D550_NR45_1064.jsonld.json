@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1064.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204579"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2009",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d37d2qc9g",
     "NR45_1064",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Unidentified Location, OR. Old truck",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Unidentified Location, OR. Old truck",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2009"
 }

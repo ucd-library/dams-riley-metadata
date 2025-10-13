@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0267.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1986",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3028pj6h",
     "D-550",
     "NR45_0267"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Solano County, CA. Cattle in Pleasants Valley,",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 1986"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Solano County, CA. Cattle in Pleasants Valley,",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1986"
 }

@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1887.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2007",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3833n436",
     "NR45_1887",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Pear with bottle brush leaves and keys",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 2007"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Pear with bottle brush leaves and keys",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 2007"
 }

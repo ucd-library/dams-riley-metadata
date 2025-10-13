@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0181.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2008-11-26"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d30g3h36v",
     "NR45_0181",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Mono Lake, CA",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "November 26, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Mono Lake, CA",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "November 26, 2008"
 }

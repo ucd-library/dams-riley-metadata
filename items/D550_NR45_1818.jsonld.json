@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1818.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2009-03-08"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1818",
     "ark:/87293/d3f47h073"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Mushrooms (cremini) plain",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "March 8, 2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Mushrooms (cremini) plain",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "March 8, 2009"
 }

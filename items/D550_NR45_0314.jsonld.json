@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0314.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2013-02-05"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3ww77495",
     "NR45_0314",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Yreka, CA. View of Black Butte from vista point on Interstate Highway 5 just above Yreka",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "February 5, 2013"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Yreka, CA. View of Black Butte from vista point on Interstate Highway 5 just above Yreka",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "February 5, 2013"
 }

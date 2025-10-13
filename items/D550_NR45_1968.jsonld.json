@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1968.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2011-03-10"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1968",
     "D-550",
     "ark:/87293/d3sn0194h"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Rambutan on platform with springs 1",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "March 10, 2011"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Rambutan on platform with springs 1",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "March 10, 2011"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0278.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2010-03",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d3js9hd1t",
     "NR45_0278"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Ukiah, CA. HydroPacific billboard on Highway 101",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "March 2010"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Ukiah, CA. HydroPacific billboard on Highway 101",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "March 2010"
 }

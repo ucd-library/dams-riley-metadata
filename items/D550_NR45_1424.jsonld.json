@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1424.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2008-05-11"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d3g44hw6f",
     "NR45_1424"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Candelabrum with antler",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 11, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Candelabrum with antler",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 11, 2008"
 }

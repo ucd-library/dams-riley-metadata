@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0950.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205660"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2007-10-27"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0950",
     "ark:/87293/d3377613t",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Panaca, NV. View of Cathedral Gorge",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 27, 2007"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Panaca, NV. View of Cathedral Gorge",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 27, 2007"
 }

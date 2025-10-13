@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0954.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205660"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1986",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3k931b96",
     "NR45_0954",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Sparks, NV. U.S.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 1986"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Sparks, NV. U.S.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1986"
 }

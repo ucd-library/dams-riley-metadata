@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0721.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1996-10",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3xs5jn75",
     "D-550",
     "NR45_0721"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Munich, Germany. Braun Family gravestone",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 1996"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Munich, Germany. Braun Family gravestone",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 1996"
 }

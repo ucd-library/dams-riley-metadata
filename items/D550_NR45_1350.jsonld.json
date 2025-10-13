@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1350.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2008-01",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1350",
     "ark:/87293/d31c1tm8s"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Apples (Rome) with large silver plate and feathers",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "January, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Apples (Rome) with large silver plate and feathers",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "January, 2008"
 }

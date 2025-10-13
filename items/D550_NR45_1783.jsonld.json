@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1783.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2011",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1783",
     "ark:/87293/d3319s794",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Mangosteen with oar locks 1",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2011"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Mangosteen with oar locks 1",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2011"
 }

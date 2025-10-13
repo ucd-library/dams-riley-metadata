@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1696.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2007-04-08"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d39z90j0g",
     "D-550",
     "NR45_1696"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Horsetail (equisetum) on plate with wire and nails",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "April 8, 2007"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Horsetail (equisetum) on plate with wire and nails",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "April 8, 2007"
 }

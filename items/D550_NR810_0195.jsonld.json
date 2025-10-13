@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0195.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2007-03-10"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3h98zk4c",
     "NR810_0195",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Lake County. Submerged trees, Indian Valley Reservoir.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "March 10, 2007"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Lake County. Submerged trees, Indian Valley Reservoir.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "March 10, 2007"
 }

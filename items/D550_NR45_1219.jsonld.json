@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1219.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205207"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-08"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "ark:/87293/d32z12v7h",
     "NR45_1219"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Prague, Czech Republic. St. Vitus Cathedral (Katedr\u00e1la svat\u00e9ho V\u00edta)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa October 8, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Prague, Czech Republic. St. Vitus Cathedral (Katedrála svatého Víta)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa October 8, 1994"
 }

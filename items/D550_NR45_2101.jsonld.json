@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2101.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2011-09-02"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3m90284g",
     "D-550",
     "NR45_2101"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Tumeric root with cork float",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "September 2, 2011"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Tumeric root with cork float",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "September 2, 2011"
 }

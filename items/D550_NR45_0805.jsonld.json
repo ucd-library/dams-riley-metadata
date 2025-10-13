@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0805.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-21"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_0805",
     "ark:/87293/d3319s756"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Trier, Germany. View of city and Moselle River",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 21, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Trier, Germany. View of city and Moselle River",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 21, 1988"
 }

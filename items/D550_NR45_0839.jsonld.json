@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0839.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1992-12-29"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_0839",
     "ark:/87293/d3pn8xm3x"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Bruchm\u221a\u00bahlbach, Germany. Interior of train station with bench and ticket dispenser",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "December 29, 1992"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Bruchm√ºhlbach, Germany. Interior of train station with bench and ticket dispenser",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "December 29, 1992"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0906.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205132"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1991-10-13"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0906",
     "D-550",
     "ark:/87293/d3ww7751r"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Budapest, Hungary. Parliament Building",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 13, 1991"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Budapest, Hungary. Parliament Building",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 13, 1991"
 }

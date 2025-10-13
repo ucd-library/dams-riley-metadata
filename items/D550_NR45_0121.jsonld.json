@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0121.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2008-11",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_0121",
     "ark:/87293/d34j0b29k"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Keeler, CA. Telephone poles in desert",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "November 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Keeler, CA. Telephone poles in desert",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "November 2008"
 }

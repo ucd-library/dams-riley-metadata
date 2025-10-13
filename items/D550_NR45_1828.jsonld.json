@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1828.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2010-11",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d34m91g8v",
     "NR45_1828",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Okra with spring 1",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "November 2010"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Okra with spring 1",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "November 2010"
 }

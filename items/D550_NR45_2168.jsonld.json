@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2168.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2007-09-22"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_2168",
     "ark:/87293/d3z892m5m",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Yucca root with bottlebrush flower",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "September 22, 2007"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Yucca root with bottlebrush flower",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "September 22, 2007"
 }

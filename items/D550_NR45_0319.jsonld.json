@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0319.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2012-04-30"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_0319",
     "ark:/87293/d3862bh0m"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Williams, CA. Pump house",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "April 30, 2012"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Williams, CA. Pump house",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "April 30, 2012"
 }

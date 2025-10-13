@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2083.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2008-05-23"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_2083",
     "ark:/87293/d3xs5jp26"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Trophy with glass and incense 2",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 23, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Trophy with glass and incense 2",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 23, 2008"
 }

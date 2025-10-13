@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1073.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1072259"
     }
   ],
   "datePublished": "1985",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1073",
     "ark:/87293/d32n4zp6k",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Anne Bressler at Marin Headlands (Golden Gate Bridge is visible in the background)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 1985"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Anne Bressler at Marin Headlands (Golden Gate Bridge is visible in the background)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1985"
 }

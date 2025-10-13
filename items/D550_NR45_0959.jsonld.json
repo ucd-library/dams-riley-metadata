@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0959.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204579"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2006-05-08"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0959",
     "ark:/87293/d3xk84w20",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Astoria, OR. Pilings",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 8, 2006"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Astoria, OR. Pilings",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 8, 2006"
 }

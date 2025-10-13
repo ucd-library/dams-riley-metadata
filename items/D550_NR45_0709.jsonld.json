@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0709.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-05"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3gq6r70j",
     "D-550",
     "NR45_0709"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Miltenberg, Germany. View of town and Main River",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 5, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Miltenberg, Germany. View of town and Main River",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 5, 1994"
 }

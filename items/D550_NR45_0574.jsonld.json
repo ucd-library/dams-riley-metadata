@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0574.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-26"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0574",
     "ark:/87293/d3280542n",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Idar-Oberstein, Germany. View of the city",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 26, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Idar-Oberstein, Germany. View of the city",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 26, 1988"
 }

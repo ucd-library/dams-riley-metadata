@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0223.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2004",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3wd3q713",
     "D-550",
     "NR810_0223"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Montezuma Hills.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2004"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Montezuma Hills.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2004"
 }

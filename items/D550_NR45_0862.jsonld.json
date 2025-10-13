@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0862.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204901"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-19"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3g15th0p",
     "NR45_0862",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Salzburg, Austria. Horse coachman",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 19, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Salzburg, Austria. Horse coachman",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 19, 1988"
 }

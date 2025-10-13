@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1080.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1072259"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "1993-10-17"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1080",
     "ark:/87293/d35d8nm03"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Anne Bressler baby shower (for Medric Riley) at 401 E. 11th Street, Davis, CA",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 17, 1993"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Anne Bressler baby shower (for Medric Riley) at 401 E. 11th Street, Davis, CA",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 17, 1993"
 }

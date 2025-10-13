@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_2011.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2010",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_2011",
     "D-550",
     "ark:/87293/d37h1ds7t"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Seaweed (dried) with unidentified seed shell, horizontal",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2010"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Seaweed (dried) with unidentified seed shell, horizontal",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2010"
 }

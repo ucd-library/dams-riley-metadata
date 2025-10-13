@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0527.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-24"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0527",
     "ark:/87293/d34f1mp8t",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Heidelberg, Germany. View of Carl Theodor Bridge taken from vantage point on bridge",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 24, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Heidelberg, Germany. View of Carl Theodor Bridge taken from vantage point on bridge",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 24, 1988"
 }

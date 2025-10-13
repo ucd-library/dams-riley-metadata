@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0265.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2005-05-25"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3g15th6k",
     "NR810_0265",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Red Rock State Park. Hoodoos.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 25, 2005"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Red Rock State Park. Hoodoos.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 25, 2005"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0999.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204579"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2013-02-13"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3n01000q",
     "NR45_0999",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Newport, OR. View of Yaquina Bay Bridge from the East",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "February 13, 2013"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Newport, OR. View of Yaquina Bay Bridge from the East",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "February 13, 2013"
 }

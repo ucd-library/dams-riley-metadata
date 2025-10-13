@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0018.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2007-10",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d38s4jv63",
     "NR810_0018",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Monument Valley.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 2007"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Monument Valley.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 2007"
 }

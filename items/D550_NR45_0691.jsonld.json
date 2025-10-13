@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0691.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1992-12-14"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0691",
     "ark:/87293/d3t727m7d",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Marktbreit, Germany. Medium view Malerwinkel, Rathaus, and Breitbach",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "December 14, 1992"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Marktbreit, Germany. Medium view Malerwinkel, Rathaus, and Breitbach",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "December 14, 1992"
 }

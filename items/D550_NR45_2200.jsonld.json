@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2200.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204473"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-18"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_2200",
     "ark:/87293/d3td9nf23"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "View of small canal 1",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 18, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "View of small canal 1",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 18, 1994"
 }

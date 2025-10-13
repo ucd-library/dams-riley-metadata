@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2213.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204473"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-20"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d30z7130h",
     "NR45_2213",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Statues at Venice Arsenale",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 20, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Statues at Venice Arsenale",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 20, 1994"
 }

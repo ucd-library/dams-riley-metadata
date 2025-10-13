@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1790.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2006",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d35t3g53w",
     "NR45_1790",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Manifold with seashell",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2006"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Manifold with seashell",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2006"
 }

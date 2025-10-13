@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1567.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2008-02-11"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d30863b5m",
     "D-550",
     "NR45_1567"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Duck with gears",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "February 11, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Duck with gears",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "February 11, 2008"
 }

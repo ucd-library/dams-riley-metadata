@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0004.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "2012-05",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0004",
     "ark:/87293/d3rv0d55h",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Alabama Hills - Lone Pine, CA. View of rock formations",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 2012"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Alabama Hills - Lone Pine, CA. View of rock formations",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 2012"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0098.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2004-08-19"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3t727n4d",
     "D-550",
     "NR810_0098"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Davis. Still life with shell.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "August 19, 2004"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Davis. Still life with shell.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "August 19, 2004"
 }

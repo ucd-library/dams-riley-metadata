@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0897.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205132"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1991-10-13"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3xw48210",
     "D-550",
     "NR45_0897"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Budapest, Hungary. View of H\u2248\u00ebs\u221a\u2202k tere (Heroes' Square)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 13, 1991"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Budapest, Hungary. View of H≈ës√∂k tere (Heroes' Square)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 13, 1991"
 }

@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1306.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2009",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3q814z1s",
     "D-550",
     "NR45_1306"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Apple (unidentified variety) with toy train track",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Apple (unidentified variety) with toy train track",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2009"
 }

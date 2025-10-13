@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1616.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2006",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1616",
     "D-550",
     "ark:/87293/d3ns0m37f"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Figs with doll head",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 2006"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Figs with doll head",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 2006"
 }

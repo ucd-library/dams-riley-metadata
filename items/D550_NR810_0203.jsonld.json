@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0203.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/813301"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2012-05-07"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3gb1xp4p",
     "D-550",
     "NR810_0203"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Manzanar Cemetery Monument (\"Soul Consoling Tower\").",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "May 7, 2012"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Manzanar Cemetery Monument (\"Soul Consoling Tower\").",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 7, 2012"
 }

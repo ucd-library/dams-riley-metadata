@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1478.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "datePublished": "2007",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3gt5fm69",
     "D-550",
     "NR45_1478"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Cow's Parsnip in silver pitcher",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "2007"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Cow's Parsnip in silver pitcher",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "2007"
 }

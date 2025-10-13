@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1132.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1072259"
     }
   ],
   "datePublished": "1992-12",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1132",
     "ark:/87293/d39w09454"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Joseph N. Riley at Eichelscheiderhof, Germany",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "December 1992"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Joseph N. Riley at Eichelscheiderhof, Germany",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "December 1992"
 }

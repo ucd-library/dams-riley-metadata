@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1269.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205207"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1996-10",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1269",
     "ark:/87293/d3gt5fm5t"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Prague, Czech Republic. View of Podskal\u00ed District showing Tan\u010d\u00edc\u00ed d\u016fm (Dancing House or \"Fred and Ginger House)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 1996"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Prague, Czech Republic. View of Podskalí District showing Tančící dům (Dancing House or \"Fred and Ginger House)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 1996"
 }

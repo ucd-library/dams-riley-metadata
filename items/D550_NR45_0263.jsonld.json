@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0263.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1987",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_0263",
     "D-550",
     "ark:/87293/d3rj4908w"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Solano County, CA. View of water storage tank and Pleasants Valley from top of American Canyon",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 1987"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Solano County, CA. View of water storage tank and Pleasants Valley from top of American Canyon",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1987"
 }

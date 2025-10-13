@@ -20,25 +20,25 @@
       "@id": "@base:/D550_NR45_1134.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1072259"
     }
   ],
   "datePublished": "1985",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1134",
     "ark:/87293/d32b8vh70",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Christian Riley (left), Joseph Riley (center) and Robert Riley (right) at 14634 Scarlet Oak Place, Salinas, CA",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 1985"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Christian Riley (left), Joseph Riley (center) and Robert Riley (right) at 14634 Scarlet Oak Place, Salinas, CA",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1985"
 }

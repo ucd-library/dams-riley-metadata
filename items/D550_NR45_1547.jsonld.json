@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1547.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2009-06-14"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_1547",
     "ark:/87293/d3k931c1s"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Doll arm and leg on stand with ring",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "June 14, 2009"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Doll arm and leg on stand with ring",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "June 14, 2009"
 }

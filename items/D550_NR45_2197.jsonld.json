@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2197.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204473"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-18"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_2197",
     "D-550",
     "ark:/87293/d36m3389t"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Bridge of Sighs",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 18, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Bridge of Sighs",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 18, 1994"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1272.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205207"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-10"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1272",
     "D-550",
     "ark:/87293/d33n20k5q"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Prague, Czech Republic. Vy\u0161ehrad fort wall",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 10, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Prague, Czech Republic. Vyšehrad fort wall",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 10, 1994"
 }

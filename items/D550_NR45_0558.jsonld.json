@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0558.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-22"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d34746x1p",
     "D-550",
     "NR45_0558"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Homburg, Germany. Unidentified brick building near bahnhof",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 22, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Homburg, Germany. Unidentified brick building near bahnhof",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 22, 1988"
 }

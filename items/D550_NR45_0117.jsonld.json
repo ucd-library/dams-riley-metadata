@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0117.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1986",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3ng4gx2j",
     "NR45_0117",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Ft. Bragg, CA. Smoke plume from Georgia-Pacific lumber mill",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "1986"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Ft. Bragg, CA. Smoke plume from Georgia-Pacific lumber mill",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1986"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1336.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2008-06-15"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1336",
     "ark:/87293/d3tt4fz8g",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Apple (Fuji) with bailing wire, crayfish, and dice",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "June 15, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Apple (Fuji) with bailing wire, crayfish, and dice",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "June 15, 2008"
 }

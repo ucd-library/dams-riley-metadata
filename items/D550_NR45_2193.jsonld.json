@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2193.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2010-01-22"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_2193",
     "ark:/87293/d3qn5zh73",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Water chestnut house",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "January 22, 2010"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Water chestnut house",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "January 22, 2010"
 }

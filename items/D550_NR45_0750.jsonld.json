@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0750.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1210272"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1988-10-13"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3639k995",
     "NR45_0750",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Rothenburg, Germany. View of the \"Altes Gymnasium\" (Old Gymnasium) - a former school located on the Kirchplatz as seen from the West",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 13, 1988"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Rothenburg, Germany. View of the \"Altes Gymnasium\" (Old Gymnasium) - a former school located on the Kirchplatz as seen from the West",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 13, 1988"
 }

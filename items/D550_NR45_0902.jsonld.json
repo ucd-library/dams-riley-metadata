@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0902.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205132"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1991-10-13"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d3dv1ct4d",
     "NR45_0902",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Budapest, Hungary. View Szabads\u00e1g h\u00edd (Liberty Bridge aka Freedom Bridge)",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 13, 1991"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Budapest, Hungary. View Szabadság híd (Liberty Bridge aka Freedom Bridge)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 13, 1991"
 }

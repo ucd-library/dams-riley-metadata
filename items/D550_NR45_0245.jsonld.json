@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0245.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1985",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d32z12v23",
     "NR45_0245",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Sacramento, CA. View of vacant lot between 12th and 13th, and \"L\" and \"K\" Streets",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "circa 1985"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Sacramento, CA. View of vacant lot between 12th and 13th, and \"L\" and \"K\" Streets",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1985"
 }

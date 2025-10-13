@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR810_0169.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/992030"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "2005-04-16"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d30g3h45t",
     "D-550",
     "NR810_0169"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "('1 negative', 'black and white', '8 x 10 inches')",
-  "name": "Grimes. Tule Fire.",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "April 16, 2005"
+  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:name": "Grimes. Tule Fire.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "April 16, 2005"
 }

@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_2028.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
@@ -29,18 +28,19 @@
   "schema:datePublished": {
     "@value": "2008-01-12"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "ark:/87293/d31v5bk6x",
     "NR45_2028",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Starfish and car horn",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "January 12, 2008"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Starfish and car horn",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "January 12, 2008"
 }

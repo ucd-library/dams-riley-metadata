@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_0196.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1204928"
@@ -30,18 +29,19 @@
     }
   ],
   "datePublished": "1986",
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "D-550",
     "NR45_0196",
     "ark:/87293/d3280540p"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Owens Dry Lake, CA",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "1986"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Owens Dry Lake, CA",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1986"
 }

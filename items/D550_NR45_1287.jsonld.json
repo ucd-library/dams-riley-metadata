@@ -20,7 +20,6 @@
       "@id": "@base:/D550_NR45_1287.tif"
     }
   ],
-  "creator": "Riley, Norman E.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1205207"
@@ -32,18 +31,19 @@
   "schema:datePublished": {
     "@value": "1994-10-10"
   },
-  "identifier": [
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
     "NR45_1287",
     "ark:/87293/d35d8nm1k",
     "D-550"
   ],
-  "license": [
+  "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "material": "1 negative,  black and white,  4 x 5 inches",
-  "name": "Prague, Czech Republic. Vy\u0161ehradsk\u00fd h\u0159bitov (Vy\u0161ehrad Cemetery) interior view",
-  "publisher": "UC Davis Library, Archives and Special Collections",
-  "temporal": "October 10, 1994"
+  "schema:material": "1 negative,  black and white,  4 x 5 inches",
+  "schema:name": "Prague, Czech Republic. Vyšehradský hřbitov (Vyšehrad Cemetery) interior view",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "October 10, 1994"
 }
