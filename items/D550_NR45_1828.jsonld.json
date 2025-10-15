@@ -25,7 +25,7 @@
       "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
-  "datePublished": "2010-11",
+  "schema:datePublished": "2010-11",
   "schema:creator": "Riley, Norman E.",
   "schema:identifier": [
     "ark:/87293/d34m91g8v",

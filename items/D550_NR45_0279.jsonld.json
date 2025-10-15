@@ -28,7 +28,7 @@
       "@id": "http://id.worldcat.org/fast/992030"
     }
   ],
-  "datePublished": "2010-03",
+  "schema:datePublished": "2010-03",
   "schema:creator": "Riley, Norman E.",
   "schema:identifier": [
     "ark:/87293/d3f18sk8v",

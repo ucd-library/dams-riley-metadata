@@ -28,7 +28,7 @@
       "@id": "http://id.worldcat.org/fast/813301"
     }
   ],
-  "datePublished": "1992-12",
+  "schema:datePublished": "1992-12",
   "schema:creator": "Riley, Norman E.",
   "schema:identifier": [
     "NR45_1256",

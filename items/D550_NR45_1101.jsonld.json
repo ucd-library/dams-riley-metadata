@@ -25,7 +25,7 @@
       "@id": "http://id.worldcat.org/fast/1072259"
     }
   ],
-  "datePublished": "1988",
+  "schema:datePublished": "1988",
   "schema:creator": "Riley, Norman E.",
   "schema:identifier": [
     "ark:/87293/d3b27px08",
