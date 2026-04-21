@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "http://schema.org/CreativeWork",
+    "http://schema.org/ImageObject",
+    "http://schema.org/Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/D550_NR810_0305.tif"
+    }
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/992030"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2006circa"
+  },
+  "schema:creator": "Riley, Norman E.",
+  "schema:identifier": [
+    "ark:/87293/d3b56df1t",
+    "D-550",
+    "NR810_0305"
+  ],
+  "schema:license": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "schema:material": "('8 x 10 inches', '8 x 10 inches', '8 x 10 inches')",
+  "schema:name": "Solano County. Oak trees on Route 128.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 2006"
+}

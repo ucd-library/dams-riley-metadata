@@ -10,9 +10,9 @@
   },
   "@id": "",
   "@type": [
+    "http://schema.org/CreativeWork",
     "http://schema.org/ImageObject",
     "http://schema.org/Photograph",
-    "http://schema.org/CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": [
@@ -22,27 +22,28 @@
   ],
   "schema:about": [
     {
-      "@id": "http://id.worldcat.org/fast/992030"
+      "@id": "http://id.worldcat.org/fast/1423689"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1204579"
+      "@id": "http://id.worldcat.org/fast/1133421"
     }
   ],
   "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2006-05-06"
   },
   "schema:creator": "Riley, Norman E.",
   "schema:identifier": [
-    "NR810_0376",
+    "ark:/87293/d35717z1q",
     "D-550",
-    "ark:/87293/d3m61bw3q"
+    "NR810_0376"
   ],
   "schema:license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:material": "('8 x 10 inches', '8 x 10 inches', '8 x 10 inches')",
   "schema:name": "Brookings. Harris Beach.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:temporal": "May 6, 2006"

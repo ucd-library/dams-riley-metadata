@@ -29,6 +29,7 @@
     }
   ],
   "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2004-08-19"
   },
   "schema:creator": "Riley, Norman E.",
