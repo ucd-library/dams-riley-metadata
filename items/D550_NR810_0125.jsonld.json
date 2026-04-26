@@ -42,7 +42,7 @@
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:material": "1 negative, black and white, 8 x 10 inches",
   "schema:name": "Davis. Reeds, Yolo Bypass Wildlife Area.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:temporal": "February 15, 2007"

@@ -25,7 +25,7 @@
       "@id": "http://id.worldcat.org/fast/992030"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1204928"
+      "@id": "http://id.worldcat.org/fast/1205542"
     }
   ],
   "schema:datePublished": "2006",
@@ -40,7 +40,7 @@
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "schema:material": "('1 negative', 'black and white', '8 x 10 inches')",
+  "schema:material": "1 negative, black and white, 8 x 10 inches",
   "schema:name": "Knights Landing. Sacramento River.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:temporal": "circa 2006"

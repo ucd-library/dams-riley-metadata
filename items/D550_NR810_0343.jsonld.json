@@ -43,7 +43,7 @@
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
     }
   ],
-  "schema:material": "('8 x 10 inches', '8 x 10 inches', '8 x 10 inches')",
+  "schema:material": "8 x 10 inches, 8 x 10 inches, 8 x 10 inches",
   "schema:name": "Yolo County. Tin Barn (corrugated metal barn) at intersection of County Roads 89 and 27.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:temporal": "2007"

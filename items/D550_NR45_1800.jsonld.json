@@ -23,6 +23,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1133421"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205542"
     }
   ],
   "schema:datePublished": "1986",
